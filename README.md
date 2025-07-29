@@ -83,4 +83,4 @@ Some plots and images referenced in the lecture (e.g., histograms, density shape
 
 ---
 
-Let me know if you want a separate version tailored for a course website or GitHub Pages.
+
