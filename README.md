@@ -1,7 +1,8 @@
 Here’s a concise yet comprehensive summary suitable for a `README.md` file that documents the R code provided for an **Exploratory Data Analysis (EDA)** lecture or tutorial:
 
 ---
- Exploratory Data Analysis 
+
+### Exploratory Data Analysis 
 
 This document introduces fundamental concepts and practices in **Exploratory Data Analysis (EDA)** using `R`, with a focus on the `tidyverse` ecosystem and `ggplot2` for visualization. Key concepts include descriptive statistics, visual data summaries, and techniques for identifying patterns, distributions, and outliers.
 
